@@ -1,0 +1,301 @@
+{
+    "skills": [
+      {
+        "name": "Microservices",
+        "description": "Developed and implemented features for a state-based API orchestration tool at Dell Technologies, ensuring seamless integration within a microservices-based architecture."
+      },
+      {
+        "name": "Large Language Model (LLM)",
+        "description": "Designed chatbots and tools to provide insights regarding orders using Prompt Engineering at Dell Technologies, leveraging LLM capabilities."
+      },
+      {
+        "name": "Small Language Model (SLM)",
+        "description": "Fine-tuned small language models for validation and order processing within order management systems at Dell Technologies."
+      },
+      {
+        "name": "Fine Tuning",
+        "description": "Fine-tuned language models for order validation and processing within Dell Technologies' order management systems."
+      },
+      {
+        "name": "Vector Database",
+        "description": "Utilized vector databases to enhance data management and retrieval processes at Dell Technologies."
+      },
+      {
+        "name": "Prompt Engineering",
+        "description": "Implemented prompt engineering techniques to develop chatbots providing order-related insights at Dell Technologies."
+      },
+      {
+        "name": "Docker",
+        "description": "Utilized Docker for containerization to ensure consistency and reliability across different environments at Dell Technologies."
+      },
+      {
+        "name": "Kubernetes",
+        "description": "Deployed and managed applications using Kubernetes for orchestration at Dell Technologies."
+      },
+      {
+        "name": "RabbitMQ",
+        "description": "Used RabbitMQ for messaging and coordination between microservices at Dell Technologies."
+      },
+      {
+        "name": "Orchestration",
+        "description": "Developed orchestration tools to streamline the integration of services within a microservices architecture at Dell Technologies."
+      },
+      {
+        "name": "Golang",
+        "description": "Developed backend services using Golang at Dell Technologies."
+      },
+      {
+        "name": "MongoDB",
+        "description": "Implemented MongoDB for efficient data storage and retrieval in various projects at Dell Technologies."
+      },
+      {
+        "name": "API",
+        "description": "Developed and integrated APIs to facilitate communication between different services at Dell Technologies."
+      },
+      {
+        "name": "Data Mining",
+        "description": "Performed data mining to identify factors contributing to order cancellations at Dell Technologies."
+      },
+      {
+        "name": "Data Analytics",
+        "description": "Analyzed data on order cancellations to identify system gaps and improve processes at Dell Technologies."
+      },
+      {
+        "name": "JSON",
+        "description": "Utilized JSON for data interchange between services and applications at Dell Technologies."
+      },
+      {
+        "name": "Python/R",
+        "description": "Developed machine learning models for order cancellation prediction using Python and R at Dell Technologies."
+      },
+      {
+        "name": "Data Visualization",
+        "description": "Created visual representations of data to analyze order cancellation trends at Dell Technologies."
+      },
+      {
+        "name": "Orange Framework",
+        "description": "Used the Orange Framework for data analysis and visualization at Dell Technologies."
+      },
+      {
+        "name": "Jupyter Notebook",
+        "description": "Developed and documented data analysis workflows using Jupyter Notebook at Dell Technologies."
+      },
+      {
+        "name": "Excel",
+        "description": "Performed data analysis and visualization using Excel for various projects at Dell Technologies."
+      },
+      {
+        "name": "Machine Learning Algorithms",
+        "description": "Implemented machine learning algorithms to predict order cancellations and improve automation at Dell Technologies."
+      },
+      {
+        "name": "Automation",
+        "description": "Worked on automation projects to streamline processes in the Global Order Management Team at Dell Technologies."
+      },
+      {
+        "name": "ETL Pipeline",
+        "description": "Developed ETL pipelines to process and analyze data for order management at Dell Technologies."
+      },
+      {
+        "name": "Azure Cloud Architecture",
+        "description": "Developed and deployed resilient Azure cloud infrastructure at NoShitSecurity."
+      },
+      {
+        "name": "Azure Security Engineering",
+        "description": "Evaluated security posture and applied remediations to improve cloud security at NoShitSecurity."
+      },
+      {
+        "name": "Azure Monitor",
+        "description": "Used Azure Monitor for tracking and managing the performance and health of cloud infrastructure at NoShitSecurity."
+      },
+      {
+        "name": "Virtual Machine",
+        "description": "Configured and secured virtual machines within Azure for enhanced performance and security at NoShitSecurity."
+      },
+      {
+        "name": "Virtual Networks",
+        "description": "Managed virtual networks to ensure secure and efficient communication between resources at NoShitSecurity."
+      },
+      {
+        "name": "Cosmos DB",
+        "description": "Utilized Cosmos DB for scalable and secure data storage in cloud applications at NoShitSecurity."
+      },
+      {
+        "name": "Disaster Recovery",
+        "description": "Implemented disaster recovery solutions to ensure business continuity at NoShitSecurity."
+      },
+      {
+        "name": "Azure Firewall and Defender",
+        "description": "Enhanced security using Azure Firewall and Defender to protect cloud infrastructure at NoShitSecurity."
+      },
+      {
+        "name": "Azure Functions",
+        "description": "Deployed Azure Functions to automate tasks and improve cloud application performance at NoShitSecurity."
+      },
+      {
+        "name": "Azure Blueprints",
+        "description": "Used Azure Blueprints for consistent deployment of cloud resources following security and compliance standards at NoShitSecurity."
+      },
+      {
+        "name": "Cloud Systems & Endpoints Active Directory Management",
+        "description": "Managed cloud systems and endpoints using Active Directory to ensure secure access control at NoShitSecurity."
+      },
+      {
+        "name": "Cryptography and Encryption Tools",
+        "description": "Applied cryptography and encryption tools to secure data transmission and storage at NoShitSecurity."
+      },
+      {
+        "name": "Network and System Scanning Tools",
+        "description": "Utilized scanning tools to identify vulnerabilities and enhance security of systems and networks at NoShitSecurity."
+      },
+      {
+        "name": "Open-source Intelligence (OSINT)",
+        "description": "Conducted OSINT to gather information and assess security threats for cybersecurity projects at NoShitSecurity and Virtually Testing Foundation."
+      },
+      {
+        "name": "Splunk",
+        "description": "Used Splunk for monitoring and analyzing security events to maintain a healthy security posture at Virtually Testing Foundation."
+      },
+      {
+        "name": "Microsoft Azure Active Directory",
+        "description": "Managed Azure Active Directory to control access and enhance security of cloud resources at Virtually Testing Foundation."
+      },
+      {
+        "name": "MITRE ATT&CK",
+        "description": "Utilized the MITRE ATT&CK framework for understanding adversary tactics and techniques in cybersecurity projects at Virtually Testing Foundation."
+      },
+      {
+        "name": "Active Directory",
+        "description": "Managed Active Directory for user authentication and access control in various security projects."
+      },
+      {
+        "name": "Architecture",
+        "description": "Designed and implemented secure and resilient cloud architecture at NoShitSecurity."
+      },
+      {
+        "name": "Auditing",
+        "description": "Performed security audits to evaluate and improve the security posture of cloud infrastructure at NoShitSecurity."
+      },
+      {
+        "name": "Azure",
+        "description": "Leveraged Azure services and tools for cloud infrastructure management and security at NoShitSecurity and Virtually Testing Foundation."
+      },
+      {
+        "name": "Bash",
+        "description": "Developed automation scripts using Bash to streamline administrative tasks and enhance security measures."
+      },
+      {
+        "name": "Blue Team",
+        "description": "Participated in defensive cybersecurity operations to protect information systems and networks at NoShitSecurity."
+      },
+      {
+        "name": "Cisco",
+        "description": "Configured and managed Cisco networking devices to ensure secure and efficient network operations."
+      },
+      {
+        "name": "Cloud",
+        "description": "Developed and secured cloud infrastructure using Azure at NoShitSecurity."
+      },
+      {
+        "name": "Code",
+        "description": "Wrote and maintained code for various software development and automation projects at Dell Technologies."
+      },
+      {
+        "name": "Compliance",
+        "description": "Ensured cloud infrastructure compliance with industry standards and regulations at NoShitSecurity."
+      },
+      {
+        "name": "Containers",
+        "description": "Used containerization technologies like Docker to improve deployment and scalability of applications at Dell Technologies."
+      },
+      {
+        "name": "Cryptosystems",
+        "description": "Implemented cryptosystems to secure data and communications in cloud environments at NoShitSecurity."
+      },
+      {
+        "name": "Defender",
+        "description": "Utilized Azure Defender to enhance security posture and protect cloud infrastructure at NoShitSecurity."
+      },
+      {
+        "name": "Encryption",
+        "description": "Applied encryption techniques to protect data integrity and confidentiality in various projects."
+      },
+      {
+        "name": "GitLab",
+        "description": "Used GitLab for version control and continuous integration/continuous deployment (CI/CD) in software development projects."
+      },
+      {
+        "name": "Linux",
+        "description": "Configured and managed Linux systems for various software development and security projects."
+      },
+      {
+        "name": "Lynis",
+        "description": "Used Lynis for security auditing and vulnerability assessment of systems at NoShitSecurity."
+      },
+      {
+        "name": "Metasploit",
+        "description": "Utilized Metasploit for penetration testing and vulnerability assessment in cybersecurity projects."
+      },
+      {
+        "name": "NIST",
+        "description": "Applied NIST guidelines and standards to ensure security and compliance of cloud infrastructure at NoShitSecurity."
+      },
+      {
+        "name": "Policy",
+        "description": "Developed and enforced security policies to protect cloud infrastructure and data at NoShitSecurity."
+      },
+      {
+        "name": "PowerShell",
+        "description": "Used PowerShell for automation and administration of cloud and on-premises systems."
+      },
+      {
+        "name": "Python",
+        "description": "Developed machine learning models and automation scripts using Python at Dell Technologies."
+      },
+      {
+        "name": "Red Team",
+        "description": "Participated in offensive security operations to identify and mitigate vulnerabilities in information systems."
+      },
+      {
+        "name": "Reporting",
+        "description": "Generated detailed reports on security assessments and vulnerability findings to inform remediation efforts at NoShitSecurity."
+      },
+      {
+        "name": "Sentinel",
+        "description": "Utilized Azure Sentinel for threat detection and response in cybersecurity projects at NoShitSecurity."
+      },
+      {
+        "name": "SIEM",
+        "description": "Used Security Information and Event Management (SIEM) tools to monitor and analyze security events at NoShitSecurity."
+      },
+      {
+        "name": "Splunk",
+        "description": "Monitored and analyzed security events using Splunk to maintain a healthy security posture at Virtually Testing Foundation."
+      },
+      {
+        "name": "Strategy",
+        "description": "Developed and implemented security strategies to protect cloud infrastructure and data at NoShitSecurity."
+      },
+      {
+        "name": "Technical Writing",
+        "description": "Produced technical documentation and process guides on cybersecurity and cloud security at Virtually Testing Foundation."
+      },
+      {
+        "name": "Unix",
+        "description": "Managed Unix systems for various software development and security projects."
+      },
+      {
+        "name": "VPN",
+        "description": "Configured and managed VPNs to secure remote access to cloud and on-premises systems."
+      },
+      {
+        "name": "Vulnerability Assessment",
+        "description": "Conducted vulnerability assessments to identify and mitigate security risks in cloud infrastructure at NoShitSecurity."
+      },
+      {
+        "name": "Window Server",
+        "description": "Managed Windows Server environments for various software development and security projects."
+      }
+    ]
+  }
+  

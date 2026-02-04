@@ -1,0 +1,6 @@
+pandas==2.0.3
+streamlit==1.29.0
+streamlit_option_menu==0.3.13
+streamlit_pills==0.3.0
+streamlit_reveal_slides==0.2.0
+google-generativeai
