@@ -1,48 +1,24 @@
-# AI-Powered Portfolio: Lucy - A New Era in Personal Portfolios
+# AI-Powered Portfolio with Conversational Assistant
 
-Welcome to the AI-powered portfolio project! This repository contains the code for creating a dynamic and interactive portfolio using advanced AI capabilities. Customize the provided templates with your personal information to showcase your skills and achievements effectively.
+Welcome to this AI-powered portfolio project. This repository contains the code for building a dynamic, interactive personal portfolio enhanced with an AI assistant. The system is designed to present professional background, projects, and experience in a structured and engaging way, while allowing visitors to interact conversationally.
+
+This project can be customized with your own data, branding, and AI configuration to reflect your professional identity.
+
+---
 
 ## Features
 
-- AI-powered chatbot for interactive user experience
-- Customizable pages for personal details
-- Dynamic project structure
-- Easy configuration and setup
+- AI-powered conversational assistant integrated into the portfolio  
+- Modular, multi-page portfolio structure  
+- Customizable content for education, experience, projects, and achievements  
+- Streamlit-based UI for rapid deployment  
+- Easy configuration and extensibility  
+
+---
 
 ## Quick Start
 
-1. **Clone the Repository:**
+1. **Clone the repository**
    ```sh
-   git clone https://github.com/Rishiraj01/Rishi_Portfolio_with_ai_chatbot_Lucy.git
-   cd Rishi_Portfolio_with_ai_chatbot_Lucy
-   
-2. **Install Dependencies:**
-   ```sh
-   pip install -r requirements.txt
-3. **Configure API Key:**
-
- - Obtain your API key from Google AI Studio : https://aistudio.google.com/app/apikey
- - Create a secrets.toml file in the Streamlit folder:
-4. **Run the Application:**
-   ```sh
-   streamlit run home.py
-## Customization
-
-Update the following files with your personal information:
-
-- `_pages/About_Me.py`
-- `_pages/Achievements.py`
-- `_pages/Blog.py`
-- `_pages/Contact.py`
-- `_pages/Education.py`
-- `_pages/Experience.py`
-- `_pages/Gallery.py`
-- `_pages/Projects.py`
-- `_pages/Resume.py`
-- `_pages/technical_skills.py`
-- `_pages/Volunteering.py`
-
-## Detailed Explanation
-
-For a comprehensive tutorial and detailed explanation, visit the blog post:  
-[AI-Powered Portfolio: Lucy - A New Era in Personal Portfolios](https://medium.com/@rislash/ai-powered-portfolio-lucy-a-new-era-in-personal-portfolios-416edfe4c223)
+   git clone <your-repository-url>
+   cd <your-repository-name>
