@@ -153,7 +153,7 @@ if not st.session_state.pill_selected:
         st.rerun()        
 
 # Handle user input and update state to hide pills
-if prompt := st.chat_input("What is up?"):
+if prompt := st.chat_input("Please ask away.."):
     st.session_state.pill_selected = True
     handle_user_input(st.session_state.groq_client, prompt)
     st.rerun()
