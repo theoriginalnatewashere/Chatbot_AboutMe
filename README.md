@@ -1,24 +1,28 @@
-# AI-Powered Portfolio with Conversational Assistant
+# Chatbot_AboutMe
 
-Welcome to this AI-powered portfolio project. This repository contains the code for building a dynamic, interactive personal portfolio enhanced with an AI assistant. The system is designed to present professional background, projects, and experience in a structured and engaging way, while allowing visitors to interact conversationally.
+An AI-powered chatbot that represents my professional profile, enabling employers and collaborators to interactively explore my experience, skills, and projects.
 
-This project can be customized with your own data, branding, and AI configuration to reflect your professional identity.
+## Who I Am
 
----
+I am a Data & AI-focused professional with a background in data-driven design, combining technical expertise with a human-centered approach. My work focuses on translating complex data and AI systems into practical, impactful solutions.
 
-## Features
+I have experience working across AI prototyping, data analysis, and digital product development, with a strong interest in human-AI collaboration, responsible AI, and real-world applications of intelligent systems.
 
-- AI-powered conversational assistant integrated into the portfolio  
-- Modular, multi-page portfolio structure  
-- Customizable content for education, experience, projects, and achievements  
-- Streamlit-based UI for rapid deployment  
-- Easy configuration and extensibility  
+Portfolio: https://www.natewashere.com  
+GitHub: https://github.com/theoriginalnatewashere  
 
----
+## Background
 
-## Quick Start
+This project reimagines the traditional CV and portfolio by creating an interactive, conversational interface. Instead of static content, the chatbot allows recruiters and collaborators to engage directly with my professional profile through natural language.
 
-1. **Clone the repository**
-   ```sh
-   git clone <your-repository-url>
-   cd <your-repository-name>
+The system uses Retrieval-Augmented Generation (RAG) to deliver accurate and context-aware responses based on curated personal data. It is designed to simulate an initial conversation, helping stakeholders quickly assess my experience, technical capabilities, and areas of interest.
+
+## Install
+
+Clone the repository:
+pip install -r requirements.txt
+streamlit run app.py
+```bash
+git clone https://github.com/theoriginalnatewashere/Chatbot_AboutMe.git
+cd Chatbot_AboutMe
+
